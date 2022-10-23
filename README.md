@@ -695,6 +695,13 @@ Know of another Hacktoberfest swag opportunity? Learn how to contribute to this 
             <sub style="font-size:14px"><b>shreyas-9</b></sub>
         </a>
     </td>
+     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/fahadashiq12>
+            <img src=https://avatars.githubusercontent.com/u/44393684?s=400&u=d92cd0c5d82c93a22202b8c51cd26ab993f77d6e&v=4 width="100;"  alt=shreyas-9/>
+            <br />
+            <sub style="font-size:14px"><b>Fahad Ashiq</b></sub>
+        </a>
+    </td>
 </tr>
 </table>
 
